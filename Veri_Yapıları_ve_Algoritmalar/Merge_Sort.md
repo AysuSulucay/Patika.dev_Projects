@@ -29,6 +29,6 @@
 
 2^x = n
 x = logn
-**O(nlogn)**
+Big O Notation: O(nlogn) 
 
 ```
