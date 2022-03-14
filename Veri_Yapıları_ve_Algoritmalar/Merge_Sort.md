@@ -1,6 +1,6 @@
 ## Proje_2 - Merge Sort
 
-** [16,21,11,8,12,22] -> Merge Sort **
+**[16,21,11,8,12,22] -> Merge Sort**
 
 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
@@ -29,6 +29,6 @@
 
 2^x = n
 x = logn
-** O(nlogn) **
+**O(nlogn)**
 
 ```
